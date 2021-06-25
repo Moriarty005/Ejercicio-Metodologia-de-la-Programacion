@@ -1,0 +1,123 @@
+####C:\Users\lolac####
+10: 19: 20 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 19: 20 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 19: 21 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+
+####C:\Users\lolac####
+10: 19: 55 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 19: 55 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 19: 55 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+
+####C:\Users\lolac####
+10: 20: 28 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 20: 28 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 20: 28 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+
+####C:\Users\lolac####
+10: 20: 42 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 20: 42 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 20: 42 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+
+####C:\Users\lolac####
+10: 22: 22 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 22: 22 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 22: 22 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+
+####C:\Users\lolac####
+10: 33: 24 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 33: 24 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int
+ FAIL
+####C:\Users\lolac####
+10: 33: 24 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 38: 03 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 38: 03 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 38: 03 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 38: 30 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 38: 30 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ")" to complete Expression
+ FAIL
+####C:\Users\lolac####
+10: 38: 30 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 38: 42 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token "(", Expression expected after this token
+ FAIL
+####C:\Users\lolac####
+10: 38: 42 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 38: 42 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 43: 52 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 43: 52 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 43: 52 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 46: 31 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) OK
+####C:\Users\lolac####
+10: 46: 32 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 46: 32 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 46: 42 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) OK
+####C:\Users\lolac####
+10: 46: 42 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 46: 42 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+
+####C:\Users\lolac####
+10: 47: 40 22-may.-a. m. testOrdenHabitantesComparator(org.mp.examenmayo.p2.MunicipiosTestB) OK
+####C:\Users\lolac####
+10: 47: 41 22-may.-a. m. testOrdenDistanciaAMunicipioComparator(org.mp.examenmayo.p2.MunicipiosTestB) OK
+####C:\Users\lolac####
+10: 47: 41 22-may.-a. m. testOrdenNatural(org.mp.examenmayo.p2.MunicipiosTestB) OK
+

@@ -1,0 +1,125 @@
+####C:\Users\lolac####
+09: 41: 13 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+09: 41: 13 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+09: 41: 13 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+
+####C:\Users\lolac####
+09: 56: 39 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+09: 56: 39 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+09: 56: 39 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+
+####C:\Users\lolac####
+10: 01: 49 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+10: 01: 49 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+10: 01: 49 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+
+####C:\Users\lolac####
+10: 02: 49 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from ArrayList<Municipios> to File
+ FAIL
+####C:\Users\lolac####
+10: 02: 49 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from ArrayList<Municipios> to File
+ FAIL
+####C:\Users\lolac####
+10: 02: 49 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from ArrayList<Municipios> to File
+ FAIL
+
+####C:\Users\lolac####
+10: 03: 00 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+10: 03: 00 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+####C:\Users\lolac####
+10: 03: 00 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.municipios" is null FAIL
+
+####C:\Users\lolac####
+10: 04: 30 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 04: 30 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 04: 30 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "org.mp.examenmayo.p2.Municipio.getMunicipio()" because "encontrado" is null FAIL
+
+####C:\Users\lolac####
+10: 06: 07 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 06: 07 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 06: 07 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "org.mp.examenmayo.p2.Municipio.getMunicipio()" because "encontrado" is null FAIL
+
+####C:\Users\lolac####
+10: 06: 43 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 06: 43 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 06: 43 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "org.mp.examenmayo.p2.Municipio.getMunicipio()" because "encontrado" is null FAIL
+
+####C:\Users\lolac####
+10: 07: 29 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 07: 29 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 07: 29 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "org.mp.examenmayo.p2.Municipio.getMunicipio()" because "encontrado" is null FAIL
+
+####C:\Users\lolac####
+10: 08: 12 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 08: 12 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 08: 12 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.NullPointerException: Cannot invoke "org.mp.examenmayo.p2.Municipio.getMunicipio()" because "encontrado" is null FAIL
+
+####C:\Users\lolac####
+10: 12: 36 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 12: 36 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 12: 36 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 16: 10 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 16: 10 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 16: 10 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 16: 56 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 16: 56 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 16: 56 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 17: 28 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 17: 29 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 17: 29 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 18: 17 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) java.lang.AssertionError FAIL
+####C:\Users\lolac####
+10: 18: 17 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 18: 17 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 18: 53 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 18: 53 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 18: 53 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
+####C:\Users\lolac####
+10: 20: 36 22-may.-a. m. testMunicipiosProvincia(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 20: 36 22-may.-a. m. testPoblacionTotal(org.mp.examenmayo.p2.MunicipiosTestA) OK
+####C:\Users\lolac####
+10: 20: 36 22-may.-a. m. testBuscar(org.mp.examenmayo.p2.MunicipiosTestA) OK
+
